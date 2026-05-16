@@ -1,2 +1,2 @@
 # github_learning
-auther - rahul 
+auther - Rahul singh chouhan
